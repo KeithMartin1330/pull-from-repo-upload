@@ -1,0 +1,55 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.development</groupId>
+	<artifactId>pull-artifact-deploy-server</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>pull-artifact-deploy-server</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.fenergo</groupId>
+			<artifactId>data-integration-manager</artifactId>
+			<version>LATEST</version>
+			<type>war</type>
+		</dependency>
+	</dependencies>
+	<profiles>
+		<profile>
+			<id>Install</id>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.codehaus.cargo</groupId>
+						<artifactId>cargo-maven2-plugin</artifactId>
+						<version>1.4.12</version>
+						<configuration>
+							<container>
+								<containerId>tomcat8x</containerId>
+								<zipUrlInstaller>
+									<url>http://f-product-app46.fenergotest.com:8081/repository/maven-releases/com/fenergo/data-integration-manager/${FDIM.Version}/data-integration-manager-${FDIM.Version}-fmb_config.zip</url>
+									<downloadDir>${project.build.directory}/downloads</downloadDir>
+									<extractDir>${project.build.directory}/extracts</extractDir>
+								</zipUrlInstaller>
+							</container>
+						</configuration>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+	</profiles>
+</project>

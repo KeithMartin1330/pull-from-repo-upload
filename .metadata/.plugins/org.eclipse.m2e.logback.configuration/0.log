@@ -7,3 +7,23 @@
 2017-08-10 11:11:22,595 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\main\resources
 2017-08-10 11:11:22,597 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-08-10 11:11:22,598 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\test\resources
+2017-08-10 11:22:48,443 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.development:pull-artifact-deploy-server:0.0.1-SNAPSHOT @ C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\pom.xml.
+2017-08-10 11:22:48,901 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:22:48,901 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\main\resources
+2017-08-10 11:22:48,903 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:22:48,904 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\test\resources
+2017-08-10 11:23:05,422 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.development:pull-artifact-deploy-server:0.0.1-SNAPSHOT @ C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\pom.xml.
+2017-08-10 11:23:05,695 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:23:05,704 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\main\resources
+2017-08-10 11:23:05,706 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:23:05,707 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\test\resources
+2017-08-10 11:23:41,385 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.development:pull-artifact-deploy-server:0.0.1-SNAPSHOT @ C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\pom.xml.
+2017-08-10 11:23:41,588 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:23:41,594 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\main\resources
+2017-08-10 11:23:41,604 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:23:41,604 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\test\resources
+2017-08-10 11:24:00,042 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.development:pull-artifact-deploy-server:0.0.1-SNAPSHOT @ C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\pom.xml.
+2017-08-10 11:24:00,290 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:24:00,291 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\main\resources
+2017-08-10 11:24:00,293 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:24:00,301 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\test\resources
