@@ -43,7 +43,7 @@
 								<zipUrlInstaller>
 									<url>http://f-product-app46.fenergotest.com:8081/repository/maven-releases/com/fenergo/data-integration-manager/7.6.0/data-integration-manager-7.6.0-fmb_config.zip</url>
 									<downloadDir>${project.build.directory}/downloads</downloadDir>
-									<extractDir>${project.build.directory}/extracts</extractDir>
+									<extractDir>${project.build.directory}/extractss</extractDir>
 								</zipUrlInstaller>
 							</container>
 						</configuration>
