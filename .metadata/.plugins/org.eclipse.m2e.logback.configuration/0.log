@@ -1,0 +1,9 @@
+2017-08-10 11:11:17,700 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\pom.xml
+2017-08-10 11:11:19,177 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.development:pull-artifact-deploy-server:0.0.1-SNAPSHOT @ C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\pom.xml.
+2017-08-10 11:11:20,748 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pull-artifact-deploy-server/src/main/java
+2017-08-10 11:11:20,759 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pull-artifact-deploy-server/src/test/java
+2017-08-10 11:11:21,505 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-08-10 11:11:22,595 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:11:22,595 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\main\resources
+2017-08-10 11:11:22,597 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-10 11:11:22,598 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\KMartin\Documents\GitHub\pull-from-repo-upload\pull-artifact-deploy-server\src\test\resources
