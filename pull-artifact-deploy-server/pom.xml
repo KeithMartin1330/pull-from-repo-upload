@@ -28,9 +28,7 @@
 			<type>war</type>
 		</dependency>
 	</dependencies>
-	<profiles>
-		<profile>
-			<id>Install</id>
+
 			<build>
 				<plugins>
 					<plugin>
@@ -50,6 +48,5 @@
 					</plugin>
 				</plugins>
 			</build>
-		</profile>
-	</profiles>
+
 </project>
